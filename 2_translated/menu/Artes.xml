@@ -4553,19 +4553,21 @@ numerous bombs and throw them.</EnglishText>
       <PointerOffset>5996,10316</PointerOffset>
       <JapaneseText>（シュゴホウジン）特技
 地面に武器を突き立てて敵の侵入を阻む光の壁を作り出す剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Create a wall of light that blocks any enemy
+approaches by thrusting your weapon into the ground.</EnglishText>
       <Notes/>
       <Id>1108</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11084,10348</PointerOffset>
       <JapaneseText>（チサイショウ）特技
 地面を砕く程深く叩きつけ、敵を打ち上げる剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Strike the ground so fiercely that it shatters,
+launching nearby enemies upward.</EnglishText>
       <Notes/>
       <Id>1109</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10376</PointerOffset>
@@ -4579,8 +4581,8 @@ numerous bombs and throw them.</EnglishText>
       <PointerOffset>10380</PointerOffset>
       <JapaneseText>（レッサイショウハ）特技
 地面に剣を突き刺し、広範囲に衝撃波を発生させる剣技</JapaneseText>
-      <EnglishText>Stick your sword into the ground, generating
-a shockwave.</EnglishText>
+      <EnglishText>Base: Thrust your sword into the ground to
+generate a wide shockwave.</EnglishText>
       <Notes/>
       <Id>1111</Id>
       <Status>Editing</Status>
@@ -4597,10 +4599,11 @@ a shockwave.</EnglishText>
       <PointerOffset>10028,10508</PointerOffset>
       <JapaneseText>（マジンケン）特技　追加技『魔神剣・双牙』
 剣を一気に振りぬくことで直線上に剣圧を飛ばす剣技</JapaneseText>
-      <EnglishText>Extends to Double Demon Fang</EnglishText>
+      <EnglishText>Base: Unleash a powerful force that launches foes in
+one sweeping motion. Extends to Double Demon Fang.</EnglishText>
       <Notes/>
       <Id>1113</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10120,10536</PointerOffset>
@@ -4614,10 +4617,11 @@ a shockwave.</EnglishText>
       <PointerOffset>10124,10540</PointerOffset>
       <JapaneseText>（ライジンケン）特技　追加技『雷神双招』
 剣を振り抜いた後に雷で追撃する剣技</JapaneseText>
-      <EnglishText>Extends to Lightning Draft</EnglishText>
-      <Notes>May need to revise extension arte</Notes>
+      <EnglishText>Base: A sword arte that follows up your slash
+with lightning. Extends to Lightning Pursuit.</EnglishText>
+      <Notes>May need to revise extension arte. Thinking Lightning Pursuit is good b/c it follows up to Lightning Blade.</Notes>
       <Id>1115</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10568,10600</PointerOffset>
@@ -4631,10 +4635,10 @@ a shockwave.</EnglishText>
       <PointerOffset>10572,10604</PointerOffset>
       <JapaneseText>（リュウエイザン）特技
 踊るように後方へステップする移動剣技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base: Take a step back as you slash at your foe.</EnglishText>
+      <Notes>Not the exact translation, but it wasn't very accurate to the actual arte.</Notes>
       <Id>1117</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>10632</PointerOffset>
@@ -4648,10 +4652,11 @@ a shockwave.</EnglishText>
       <PointerOffset>10636</PointerOffset>
       <JapaneseText>（センコウ・ヒョウソウジン）奥義
 輝く氷の刃を突き出し、広範囲の敵を刺し貫く剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Thrust forward with an ice-covered blade
+and pierce through your foes.</EnglishText>
       <Notes/>
       <Id>1119</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10412,10668</PointerOffset>
@@ -4667,19 +4672,21 @@ a shockwave.</EnglishText>
       <PointerOffset>11244,10700</PointerOffset>
       <JapaneseText>（トリュウセン）特技
 地面をはがし衝撃波すら起こす程、鋭く斬り上げる剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Swing an upward slash so fierce it tears up
+the ground to launch shockwaves.</EnglishText>
       <Notes/>
       <Id>1121</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10988,10732</PointerOffset>
       <JapaneseText>（ヒゲツショウセン）特技
 剣閃を氷結させ、更に斬り砕く剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Freeze the area around your sword before
+shattering it to pieces.</EnglishText>
       <Notes/>
       <Id>1122</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10760</PointerOffset>
@@ -4693,8 +4700,8 @@ a shockwave.</EnglishText>
       <PointerOffset>10764</PointerOffset>
       <JapaneseText>（ライコウリン）奥義　追加技『雷煌鈴・解』
 剣先に雷球を生み出し、感電させる剣技</JapaneseText>
-      <EnglishText>（ライコウリン）Additional Arte: "Flash Bell: Resolute"
-剣先に雷球を生み出し、感電させる剣技</EnglishText>
+      <EnglishText>Arcane: Emit an orb of lightning at the tip of your thrust
+to electrocute your foes. Extends to Flash Bell: Resolute.</EnglishText>
       <Notes/>
       <Id>1124</Id>
       <Status>Editing</Status>
@@ -4737,10 +4744,11 @@ finishing with a single ice cold stab.</EnglishText>
       <PointerOffset>11340,10892</PointerOffset>
       <JapaneseText>（クウハゼップウゲキ）奥義
 その身に風を纏い、斬り上げから流れるように鋭く突く剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Utilize the power of wind to flow from an
+upward slash into a sharp thrust.</EnglishText>
       <Notes/>
       <Id>1129</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10440,10920</PointerOffset>
@@ -4771,7 +4779,8 @@ finishing with a single ice cold stab.</EnglishText>
       <PointerOffset>12620,10956</PointerOffset>
       <JapaneseText>（ショウカ）特技　追加技『衝華無散』
 気を込めた渾身の体当たりによって敵を弾き飛ばす拳技</JapaneseText>
-      <EnglishText>Extends to Luster Scatter</EnglishText>
+      <EnglishText>Base: A martial arte that pushes back foes with
+a chi-infused ram. Extends to Luster Scatter.</EnglishText>
       <Notes/>
       <Id>1133</Id>
       <Status>Editing</Status>
@@ -4796,10 +4805,11 @@ finishing with a single ice cold stab.</EnglishText>
       <PointerOffset>9708,11020</PointerOffset>
       <JapaneseText>特技　効果：睡眠
 心地よい？　フレーズにより周囲の敵を眠りへと誘う歌術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Is it soothing? It's a song that lulls nearby
+enemies to sleep through its melody. Inflicts Sleep.</EnglishText>
       <Notes/>
       <Id>1136</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10344,11080</PointerOffset>
