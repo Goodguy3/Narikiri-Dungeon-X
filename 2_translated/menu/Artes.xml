@@ -1613,10 +1613,11 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>3788</PointerOffset>
       <JapaneseText>（ナギハライ）特技
 大きく振りかぶって横なぎに払う剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Swing your sword horizontally in a wide
+sweeping motion.</EnglishText>
       <Notes/>
       <Id>778</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3816</PointerOffset>
@@ -9015,10 +9016,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>20492</PointerOffset>
       <JapaneseText>特技　効果：睡眠
 音符を飛ばして攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Attack by sending out musical notes.
+Inflicts Sleep.</EnglishText>
       <Notes/>
       <Id>1595</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20648</PointerOffset>
@@ -9050,10 +9052,11 @@ poses is more cool!</EnglishText>
       <PointerOffset>20684</PointerOffset>
       <JapaneseText>（マフウジノコナ）特技　効果：封印
 頭部の花から花粉を飛ばして攻撃をする技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Release the pollen from your flower on your
+head to attack nearby foes. Inflicts Seal.</EnglishText>
       <Notes/>
       <Id>1599</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20712</PointerOffset>
@@ -12242,8 +12245,8 @@ around the enemy. Extend: Increase damage.</EnglishText>
       <PointerOffset>38732</PointerOffset>
       <JapaneseText>地系攻撃呪文の一つ。地面から岩の槍が突き出す
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText>Spear-shaped rocks are thrust up from
-below. Extend: Increase damage.</EnglishText>
+      <EnglishText>An earth spell that conjures spear-shaped rocks
+from the ground. Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>1962</Id>
       <Status>Editing</Status>
@@ -12305,9 +12308,8 @@ explosiveness and sends out more fire.</EnglishText>
       <PointerOffset>44396,38860</PointerOffset>
       <JapaneseText>無属性攻撃呪文の一つ。地上の敵を空へ持ち上げる
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText>A non-elemental attack spell that lifts enemies
-off the ground and then drops them back down.
-Extend: Increase damage.</EnglishText>
+      <EnglishText>A non-elemental spell that lifts enemies off the ground
+then drops them back down. Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>1969</Id>
       <Status>Editing</Status>
@@ -12381,9 +12383,8 @@ Extend: Increase number of lasers.</EnglishText>
       <PointerOffset>44492,38988</PointerOffset>
       <JapaneseText>火系攻撃呪文の一つ。敵に向かって炎の渦を巻き起こす
 エクステンドスペル効果：範囲が拡大する</JapaneseText>
-      <EnglishText>A fire spell that conjures a vortex of
-flames in front of you.
-Extend: Increase the range.</EnglishText>
+      <EnglishText>A fire spell that conjures a vortex of flames in front of you.
+Extend: Increase the area of effect.</EnglishText>
       <Notes/>
       <Id>1977</Id>
       <Status>Editing</Status>
@@ -12436,8 +12437,8 @@ to strike the enemy.</EnglishText>
       <PointerOffset>39084</PointerOffset>
       <JapaneseText>水系攻撃呪文の一つ。敵の足元に激しい大渦を生み出す
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText>A water spell that creates a vortex
-beneath enemies.</EnglishText>
+      <EnglishText>A water spell that creates a vortex beneath enemies.
+Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>1983</Id>
       <Status>Editing</Status>
@@ -12480,9 +12481,8 @@ its wind pressure. Extend: Increase damage.</EnglishText>
       <PointerOffset>44588,39212</PointerOffset>
       <JapaneseText>雷系攻撃呪文の一つ。敵の周囲に強力な雷を落とす
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText>A lightning spell that drops a powerful
-lightning bolt on the enemy.
-Extend: Increase damage. </EnglishText>
+      <EnglishText>A lightning spell that drops a powerful lightning
+bolt on the enemy. Extend: Increase damage. </EnglishText>
       <Notes/>
       <Id>1988</Id>
       <Status>Editing</Status>
@@ -12802,10 +12802,10 @@ Extend: Revive from KO with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>39980</PointerOffset>
       <JapaneseText>ディオ流。イフリートを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summon Ifrit, Dio Style.</EnglishText>
       <Notes/>
       <Id>2023</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40552,40008</PointerOffset>
@@ -12818,42 +12818,42 @@ Extend: Revive from KO with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>40012</PointerOffset>
       <JapaneseText>ディオ流。ウンディーネを召喚する</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Summon Undine, Dio Style.</EnglishText>
+      <Notes>Need to decide whether to do put "Dio Style" before or after "Summon Undine".</Notes>
       <Id>2025</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>40044</PointerOffset>
       <JapaneseText>ディオ流。シルフを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summon Sylph, Dio Style.</EnglishText>
       <Notes/>
       <Id>2026</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40076</PointerOffset>
       <JapaneseText>ディオ流。ノームを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summon Gnome, Dio Style.</EnglishText>
       <Notes/>
       <Id>2027</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40108</PointerOffset>
       <JapaneseText>ディオ流。マクスウェルを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summon Maxell, Dio Style.</EnglishText>
       <Notes/>
       <Id>2028</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40140</PointerOffset>
       <JapaneseText>ディオ流。ルナを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summon Luna, Dio Style.</EnglishText>
       <Notes/>
       <Id>2029</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40712,40168</PointerOffset>
@@ -12866,18 +12866,18 @@ Extend: Revive from KO with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>40172</PointerOffset>
       <JapaneseText>ディオ流。アスカを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summon Asuka, Dio Style.</EnglishText>
       <Notes/>
       <Id>2031</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40204</PointerOffset>
       <JapaneseText>ディオ流。ヴォルトを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summon Volt, Dio Style.</EnglishText>
       <Notes/>
       <Id>2032</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40776,40232</PointerOffset>
@@ -12890,10 +12890,10 @@ Extend: Revive from KO with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>40236</PointerOffset>
       <JapaneseText>ディオ流。オリジンを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summon Origin, Dio Style.</EnglishText>
       <Notes/>
       <Id>2034</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40936,40264</PointerOffset>
@@ -12906,10 +12906,10 @@ Extend: Revive from KO with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>40268</PointerOffset>
       <JapaneseText>ディオ流。シャドウを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summon Shadow, Dio Style.</EnglishText>
       <Notes/>
       <Id>2036</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40296</PointerOffset>
@@ -13253,10 +13253,11 @@ heart, even if you don't want it.</EnglishText>
       <PointerOffset>41004</PointerOffset>
       <JapaneseText>いにしえのリングを召喚し、その内より力場を発生させる
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summon an ancient circle and generate a force
+field from within. Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>2078</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41064</PointerOffset>
@@ -13449,10 +13450,11 @@ leaves to make your escape. Effect: Escape</EnglishText>
       <PointerOffset>41452</PointerOffset>
       <JapaneseText>秘奥義
 高速回転し、光のリングを乱舞させる必殺技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystic: A finishing move where you spin violently and
+shoot out several light projectiles around yourself.</EnglishText>
       <Notes/>
       <Id>2100</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41480</PointerOffset>
@@ -13619,10 +13621,11 @@ Effect: Instant Movement.</EnglishText>
       <PointerOffset>41772</PointerOffset>
       <JapaneseText>特殊技　効果：クリティカル頻度↑
 精神を集中し、狙いを高める</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Focus your mind to sharpen your aim.
+Effect: Critical Rate↑.</EnglishText>
       <Notes/>
       <Id>2119</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41864,45352,41800</PointerOffset>
@@ -13636,10 +13639,11 @@ Effect: Instant Movement.</EnglishText>
       <PointerOffset>45356,41868,41804</PointerOffset>
       <JapaneseText>（シュン・コウタイソウ）特殊技　効果：無敵
 気を発し、ほんの数秒無敵となれる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Transmit Qi to make yourself invulnerable for
+a few seconds. Effect: Invincible.</EnglishText>
       <Notes/>
       <Id>2121</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41832,45384,41896</PointerOffset>
@@ -13773,10 +13777,11 @@ directions using numerous magitech weapons.</EnglishText>
     <Entry>
       <PointerOffset>42188</PointerOffset>
       <JapaneseText>輝く光のリングを出現させ、その内に反重力を巻き起こす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystic: Conjure a ring of light that creates an
+anti-gravitational force within.</EnglishText>
       <Notes/>
       <Id>2137</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42216</PointerOffset>
@@ -13790,28 +13795,30 @@ directions using numerous magitech weapons.</EnglishText>
       <PointerOffset>42220</PointerOffset>
       <JapaneseText>（インガオウホウ）秘奥義
 目には目を。大罪者には償いを……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Mystic: An eye for an eye. Sinners must pay their dues...</EnglishText>
+      <Notes>Might want to rephrase to make it sound more dignified.</Notes>
       <Id>2139</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>45516,45484,42316</PointerOffset>
       <JapaneseText>秘奥義
 熱き心を炎に映し、渾身の力を込めたパンチを叩き込む</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystic: Reflecting the fiery passion in your heart, deliver
+a single punch packed with every ounce of your might.</EnglishText>
       <Notes/>
       <Id>2140</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45772,45740,42348</PointerOffset>
       <JapaneseText>秘奥義
 魔力を凝縮して生み出した、輝くツルギを天より落とす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystic: Consolidate magic power to conjure a shining
+sword and drop it down from the heavens.</EnglishText>
       <Notes/>
       <Id>2141</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45800,42376</PointerOffset>
@@ -13833,10 +13840,11 @@ directions using numerous magitech weapons.</EnglishText>
       <PointerOffset>42412</PointerOffset>
       <JapaneseText>（シンラバンショウヒップ）秘奥義
 無心に跳ね回り、かっこよくヒップアタック！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystic: Bounce around mindlessly before launching
+a cool hip attack!</EnglishText>
       <Notes/>
       <Id>2144</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42440</PointerOffset>
@@ -13850,10 +13858,11 @@ directions using numerous magitech weapons.</EnglishText>
       <PointerOffset>42444</PointerOffset>
       <JapaneseText>（ソウキュウレンショウハ）秘奥義
 罪を受け入れた二人の心は、それでも挫けることなく希望を宿す！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Mystic: Though the two are burdened with sin, their hearts
+remain unbroken, holding onto a glimmer of hope!</EnglishText>
+      <Notes>maybe use harboring instead of holding onto?</Notes>
       <Id>2146</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42472</PointerOffset>
@@ -14235,8 +14244,8 @@ from KO with full HP and EBG.</EnglishText>
       <PointerOffset>43436</PointerOffset>
       <JapaneseText>特殊技　効果：ＨＰ回復　戦闘中のみ使用可能
 ＨＰを１５％回復する矢の雨を自分の周囲に降らせる</JapaneseText>
-      <EnglishText>Use your bow to rain down many healing areas
-around you. Heals 15% of HP.</EnglishText>
+      <EnglishText>Special: Rain down healing arrows around yourself to restore
+15% of Max HP for allies in range. Useable only in battle.</EnglishText>
       <Notes/>
       <Id>2189</Id>
       <Status>Editing</Status>
@@ -14253,10 +14262,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>43468</PointerOffset>
       <JapaneseText>特殊技　効果：ＨＰ回復　戦闘中のみ使用可能
 自分と周囲の仲間のＨＰを３０％回復するグミの歌</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Restore 30% of max HP to yourself and nearby
+allies with a song about gels. Only usable in battle.</EnglishText>
       <Notes/>
       <Id>2191</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43528</PointerOffset>
@@ -14270,10 +14280,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>43532</PointerOffset>
       <JapaneseText>特殊技
 原理を疑うバネ仕掛けのロケットパンチで攻撃する技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Launch a spring-loaded rocket punch at your
+foes that somehow defies the laws of physics.</EnglishText>
       <Notes/>
       <Id>2193</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43560</PointerOffset>
@@ -14287,10 +14298,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>43564</PointerOffset>
       <JapaneseText>（リミッターカイジョ）特殊技
 胸から強烈ないたずらレーザーを放つ技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Special: Fire an intense, mischievous laser from its
+chest.</EnglishText>
+      <Notes>Not sure what "mischievous" has to do with the laser, but it's in the description.</Notes>
       <Id>2195</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>43592</PointerOffset>
@@ -14304,10 +14316,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>43596</PointerOffset>
       <JapaneseText>特殊技
 自分を中心に強烈な風の渦を巻き起こす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Spin around to generate a powerful vortex
+around yourself.</EnglishText>
       <Notes/>
       <Id>2197</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43624</PointerOffset>
@@ -14321,15 +14334,16 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>43628</PointerOffset>
       <JapaneseText>特技
 武器を水の弓に変化させ、誘導性の高い水の矢を撃ち出す技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Transform your sword into a bow and fire
+homing water arrows at your foes.</EnglishText>
       <Notes/>
       <Id>2199</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43656</PointerOffset>
       <JapaneseText>水蛇連咬</JapaneseText>
-      <EnglishText>Hyrdrus Assault</EnglishText>
+      <EnglishText>Hydrus Assault</EnglishText>
       <Notes/>
       <Id>2200</Id>
       <Status>Editing</Status>
@@ -14338,10 +14352,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>43660</PointerOffset>
       <JapaneseText>（スイジャレンコウ）特殊技
 水の刃を自在に操り、地面を走らせる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Manipulate blades of water by shooting
+them from the ground in front of you.</EnglishText>
       <Notes/>
       <Id>2201</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43688</PointerOffset>
@@ -14355,10 +14370,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>43692</PointerOffset>
       <JapaneseText>特殊技
 無数の火の弾を生み出し、一気に放つ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Conjure several fireballs and send them
+flying at your foes all at once.</EnglishText>
       <Notes/>
       <Id>2203</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43720</PointerOffset>
@@ -14372,10 +14388,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>43724</PointerOffset>
       <JapaneseText>（ゼンインシュウゴウナノラ〜）特殊技
 仲間を呼び出し、時間差攻撃を行う</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Summon companions to execute a time-delayed
+assault.</EnglishText>
       <Notes/>
       <Id>2205</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43752</PointerOffset>
@@ -14389,10 +14406,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>43756</PointerOffset>
       <JapaneseText>特殊技
 精霊の力を凝縮し、周囲で跳ね回らせる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Condense the power of the spirits and
+bounce it around the surrounding area.</EnglishText>
       <Notes/>
       <Id>2207</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43784</PointerOffset>
@@ -14406,10 +14424,10 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>43788</PointerOffset>
       <JapaneseText>特殊技
 邪悪な爪で二度切り裂く</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Special: Slash twice with your unholy claws.</EnglishText>
+      <Notes>Maybe use wicked, evil, or dark?</Notes>
       <Id>2209</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>43816</PointerOffset>
@@ -14423,10 +14441,11 @@ around you. Heals 15% of HP.</EnglishText>
       <PointerOffset>43820</PointerOffset>
       <JapaneseText>（シン・コウヨクセン）特殊技
 翼に光を纏い、二度突き抜ける</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: With your wings enveloped in light, pierce
+through your enemies twice.</EnglishText>
       <Notes/>
       <Id>2211</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43848</PointerOffset>
@@ -14680,44 +14699,47 @@ Usable only in battle. Effect: HP Recovery.</EnglishText>
     <Entry>
       <PointerOffset>44332</PointerOffset>
       <JapaneseText>風系攻撃呪文の一つ。敵の周囲に突風を巻き起こす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A wind spell that conjures a gust of wind
+around the enemy.</EnglishText>
       <Notes/>
       <Id>2240</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38796,44428</PointerOffset>
       <JapaneseText>水系攻撃呪文の一つ。敵を氷の嵐に巻き込む
 エクステンドスペル効果：範囲と吹き飛ばす威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A water spell that engulfs your target in an icy storm.
+Extend: Increase area of effect and knockback power.</EnglishText>
       <Notes/>
       <Id>2241</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44460</PointerOffset>
       <JapaneseText>水系攻撃呪文の一つ。敵を氷の嵐に巻き込む</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A water spell that engulfs your target in an icy storm.</EnglishText>
       <Notes/>
       <Id>2242</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44524</PointerOffset>
       <JapaneseText>火系攻撃呪文の一つ。敵に向かって炎の渦を巻き起こす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A fire spell that conjures a vortex of flames in front of you.</EnglishText>
       <Notes/>
       <Id>2243</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39180,44620</PointerOffset>
       <JapaneseText>火系攻撃呪文の一つ。広範囲を焼き尽くす大爆発を起こす
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A fire spell that drops a massive explosion to incinerate
+a large area. Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>2244</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44616,39176,44648</PointerOffset>
@@ -14730,10 +14752,11 @@ Usable only in battle. Effect: HP Recovery.</EnglishText>
     <Entry>
       <PointerOffset>44652</PointerOffset>
       <JapaneseText>火系攻撃呪文の一つ。広範囲を焼き尽くす大爆発を起こす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A fire spell that drops a massive explosion to incinerate
+a large area.</EnglishText>
       <Notes/>
       <Id>2246</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44744,39272,44712</PointerOffset>
@@ -14747,27 +14770,30 @@ Usable only in battle. Effect: HP Recovery.</EnglishText>
       <PointerOffset>39276,44716</PointerOffset>
       <JapaneseText>闇系攻撃呪文の一つ。地の底より禍々しい瘴気を吹き上げる
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A dark spell that unleashes a malevolent miasma
+from the depths of the earth. Extend: Increases damage.</EnglishText>
       <Notes/>
       <Id>2248</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44748</PointerOffset>
       <JapaneseText>闇系攻撃呪文の一つ。地の底より禍々しい瘴気を吹き上げる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A dark spell that unleashes a malevolent miasma
+from the depths of the earth.</EnglishText>
       <Notes/>
       <Id>2249</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39116,44780</PointerOffset>
       <JapaneseText>地系攻撃呪文の一つ。大地震によって周辺を壊滅させる
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An earth spell that devestates the surrounding area
+with a massive earthquake. Extend: Increases damage.</EnglishText>
       <Notes/>
       <Id>2250</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39240,44808</PointerOffset>
@@ -14781,10 +14807,11 @@ Usable only in battle. Effect: HP Recovery.</EnglishText>
       <PointerOffset>39244,44812</PointerOffset>
       <JapaneseText>水系攻撃呪文の一つ。周辺を洗い流す巨大な津波を呼ぶ
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A water spell that unleashes a massive tsunami that
+washes away the surrounding area. </EnglishText>
+      <Notes>Could say vicinity instead of surrounding area.</Notes>
       <Id>2252</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38664,44840</PointerOffset>
@@ -14797,26 +14824,28 @@ Usable only in battle. Effect: HP Recovery.</EnglishText>
     <Entry>
       <PointerOffset>44844</PointerOffset>
       <JapaneseText>雷系攻撃呪文の中で最も簡単なもの。小さな雷を落とす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The simplest of lightning spells that casts a
+small lightning bolt.</EnglishText>
       <Notes/>
       <Id>2254</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44876</PointerOffset>
       <JapaneseText>水系攻撃呪文の一つ。敵を沸き立つ水泡で打ち上げる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A water spell that strikes the enemy with
+boiling bubbles.</EnglishText>
       <Notes/>
       <Id>2255</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44908</PointerOffset>
       <JapaneseText>火系攻撃呪文の中で最も簡単なもの。火炎弾を発射する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The simplest of fire spells that shoots fireballs.</EnglishText>
       <Notes/>
       <Id>2256</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39336,44936</PointerOffset>
@@ -14889,10 +14918,10 @@ Extend Effect: Restore 90% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>45288,41032,41128,45256</PointerOffset>
       <JapaneseText>柔招来</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summon Gentle</EnglishText>
       <Notes/>
       <Id>2265</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43496,45320</PointerOffset>
@@ -14906,19 +14935,21 @@ Extend Effect: Restore 90% of max HP.</EnglishText>
       <PointerOffset>43500,45324</PointerOffset>
       <JapaneseText>（ケンショウライ）特殊技　効果：物防↑
 精神を統一し、物理防御力を高める</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Fortify your spirit to enhance your physical
+defense. Effect: P.DEF↑.</EnglishText>
       <Notes/>
       <Id>2267</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41836,41900,45388</PointerOffset>
       <JapaneseText>（シュン・キョウメイヘキ）特殊技　効果：飛び道具打ち消し
 気を発し、身近な飛来物を打ち消す</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Emit Qi to neutralize incoming projectiles.
+Effect: Projectile Nullification.</EnglishText>
       <Notes/>
       <Id>2268</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42280,45416,45448</PointerOffset>
@@ -14932,10 +14963,11 @@ Extend Effect: Restore 90% of max HP.</EnglishText>
       <PointerOffset>42284,45420,45452</PointerOffset>
       <JapaneseText>（テンクジョウソウジン）秘奥義
 曇り無き刀身よりほとばしる、純粋な心の力で連続斬りを行う</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Mystic: With unclouded blade in hand and a pure heart,
+surge forth a power to unleash a barrage of slashes.</EnglishText>
+      <Notes>May want to rewrite this to sound better.</Notes>
       <Id>2270</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42312,45512,45480</PointerOffset>
@@ -14957,19 +14989,21 @@ Extend Effect: Restore 90% of max HP.</EnglishText>
       <PointerOffset>45708,43180,42828,42732,45676</PointerOffset>
       <JapaneseText>秘奥義　ＥＢＧ６割以上で最優先発動
 禁呪文の一つ。星が吹き飛ぶかの如き大爆発を巻き起こす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystic: Activates when EBG is greater than 60%. A forbidden spell
+that triggers an explosion as massive as an exploding star.</EnglishText>
       <Notes/>
       <Id>2273</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42380,45804</PointerOffset>
       <JapaneseText>（センキエイテイダン）秘奥義
 数多の魔物が一度に襲い掛かるような奮迅の連続打撃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystic: Unleash a flurry of strikes comparable to
+an assault by a legion of monsters.</EnglishText>
       <Notes/>
       <Id>2274</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45832</PointerOffset>
@@ -14990,10 +15024,10 @@ Extend Effect: Restore 90% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>45932,45836,45868</PointerOffset>
       <JapaneseText>説明文は不要です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No Description Needed</EnglishText>
       <Notes/>
       <Id>2277</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>45896,45928</PointerOffset>
@@ -15006,10 +15040,11 @@ Extend Effect: Restore 90% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>44556,45964</PointerOffset>
       <JapaneseText>雷系攻撃呪文の一つ。敵の周囲に強力な雷を落とす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A lightning spell that drops a powerful lightning
+bolt on the enemy.</EnglishText>
       <Notes/>
       <Id>2279</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </MenuText>
