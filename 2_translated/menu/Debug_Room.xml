@@ -2736,13 +2736,13 @@ Mjolnir Cave
 Cave of Darkness
 Trent Forest
 Nervi's Cave
-The Flame King's Wedge&lt;Bubble&gt;The Ice Wolf King's Cornerstone
+Linchpin of the Lord of Fire&lt;Bubble&gt;The Ice Wolf King's Cornerstone
 Plains of Wayland
 Loki Magic Science Research Cave
 Grythnir Mountains
 Dhaos Castle
 Crystal Valley of Judgment
-Distortion of Reminiscence</EnglishText>
+Distortion of Memories</EnglishText>
       <Notes/>
       <Id>292</Id>
       <Status>Editing</Status>
@@ -5995,10 +5995,10 @@ SB_250 Cress's Rough Ride
 SB_260 Chester's Special Training
 SB_270 Lessons from Arche
 SB_280 Training with Suzu
-SB_290 Distortion of Reminiscence
+SB_290 Distortion of Memories
 SB_300 Love Cremin&lt;Bubble&gt;SB_310 Hot Springs are Nice
 SB_330 TOP#R Master
-SB_340 Arena
+SB_340 Coliseum
 SB_350 Nam Isolated Island
 SB_360 Oxen
 SB_370 Summoning Ring
@@ -6510,7 +6510,7 @@ No. 3</EnglishText>
     <Entry>
       <PointerOffset>1981504</PointerOffset>
       <JapaneseText>SB_290 追憶の歪み</JapaneseText>
-      <EnglishText>SB_290 Distortion of Reminiscence</EnglishText>
+      <EnglishText>SB_290 Distortion of Memories</EnglishText>
       <Notes/>
       <Id>579</Id>
       <Status>Editing</Status>
@@ -6596,7 +6596,7 @@ No. 2</EnglishText>
     <Entry>
       <PointerOffset>1986068</PointerOffset>
       <JapaneseText>SB_340 闘技場</JapaneseText>
-      <EnglishText>SB_340 Arena</EnglishText>
+      <EnglishText>SB_340 Coliseum</EnglishText>
       <Notes/>
       <Id>587</Id>
       <Status>Editing</Status>
