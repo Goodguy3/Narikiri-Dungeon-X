@@ -575,22 +575,16 @@
 	},
 		{
 		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_MEMO_DATA/bt_memo_data.dat",
-		"friendly_name": "Config",
+		"friendly_name": "Memo",
 		"split_sections": false,
 		"base_offset":	0,
 		"sections":
 		[
 		{
-			"section":					"Config1",
-			"pointers_start":			8,
-			"pointers_end":				71,
-			"style":					"P8",
-		},
-		{
-			"section":					"Config2",
-			"pointers_start":			96,
-			"pointers_end":				147,
-			"style":					"P8",
+			"section":					"Memo1",
+			"pointers_start":			4,
+			"pointers_end":				4259,
+			"style":					"4P8P8P8P8P8P8",
 		}
 		]
 	},
