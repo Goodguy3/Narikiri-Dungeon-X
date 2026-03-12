@@ -15359,10 +15359,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>50132,53240,57020,50048,53408,53324,53660,53492,56684,56852,53576,56768,56936,53156</PointerOffset>
       <JapaneseText>防御属性『無』（耐性：--　弱点：--）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: None (Resist: --, Weak: --)</EnglishText>
       <Notes/>
       <Id>4060</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53160</PointerOffset>

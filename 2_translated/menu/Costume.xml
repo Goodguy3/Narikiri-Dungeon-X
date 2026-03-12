@@ -677,10 +677,11 @@ A costume that utilizes its spear's range to strike multiple foes.</EnglishText>
       <PointerOffset>15516</PointerOffset>
       <JapaneseText>防御属性『無』（耐性：--　弱点：--）
 「塊魂」ヨリ参戦！　「テイルズ オブ」ノ世界ニ王子ガヤッテキタヨ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: None (Resist: --, Weak: --)
+Dress as The Prince from "Katamari Damacy", who has joined the world of the "Tales of" series!</EnglishText>
       <Notes/>
       <Id>77</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>15920</PointerOffset>
@@ -694,10 +695,11 @@ A costume that utilizes its spear's range to strike multiple foes.</EnglishText>
       <PointerOffset>15924</PointerOffset>
       <JapaneseText>防御属性『無』（耐性：--　弱点：--）
 「.hack//Link」より参戦！　双剣で華麗に敵を葬る！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: None (Resist: --, Weak: --)
+Dress as Kite from ".hack//Link" to destroy foes with his dual swords!</EnglishText>
       <Notes/>
       <Id>79</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16328</PointerOffset>
@@ -711,10 +713,11 @@ A costume that utilizes its spear's range to strike multiple foes.</EnglishText>
       <PointerOffset>16332</PointerOffset>
       <JapaneseText>防御属性『無』（耐性：--　弱点：--）
 「テイルズ オブ グレイセス」より参戦！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: None (Resist: --, Weak: --)
+Dress as Asbel from "Tales of Graces"!</EnglishText>
       <Notes/>
       <Id>81</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16736,33872</PointerOffset>
@@ -728,10 +731,11 @@ A costume that utilizes its spear's range to strike multiple foes.</EnglishText>
       <PointerOffset>16740</PointerOffset>
       <JapaneseText>防御属性『無』（耐性：--　弱点：--）
 おいしそうな赤色のかに型きぐるみ。横歩きがちょっと辛い･･･</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: None (Resist: --, Weak: --)
+A delicious-looking, crab shaped costume. Moving side-to-side is a bit of a struggle...</EnglishText>
       <Notes/>
       <Id>83</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17144,34280</PointerOffset>
@@ -745,10 +749,11 @@ A costume that utilizes its spear's range to strike multiple foes.</EnglishText>
       <PointerOffset>17148</PointerOffset>
       <JapaneseText>防御属性『無』（耐性：--　弱点：--）
 「ゼビウス」より参戦！　堅さはピカイチ、グリーンバージョン！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Attribute: None (Resist: --, Weak: --)
+Dress as the green Bacura from "Xevious"! Its toughness is second to none!</EnglishText>
+      <Notes>May need more details on whether there's a green variant of Bacura in Xevious</Notes>
       <Id>85</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17960</PointerOffset>
@@ -762,10 +767,11 @@ A costume that utilizes its spear's range to strike multiple foes.</EnglishText>
       <PointerOffset>17964</PointerOffset>
       <JapaneseText>防御属性『無』（耐性：--　弱点：--）
 メルの「もう一つ」の可能性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: None (Resist: --, Weak: --)
+An alternate possibility for Mel.</EnglishText>
       <Notes/>
       <Id>87</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18368</PointerOffset>
@@ -1397,27 +1403,29 @@ A costume clad in heavy armor with powerful ramming attacks.</EnglishText>
       <PointerOffset>32652</PointerOffset>
       <JapaneseText>防御属性『無』（耐性：--　弱点：--）
 「ワンダーモモ」より参戦！　舞台から飛び出し、大活躍！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: None (Resist: --, Weak: --)
+Dress as Wonder Momo from her game! Leap off the stage and make a big splash!</EnglishText>
       <Notes/>
       <Id>159</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33056</PointerOffset>
       <JapaneseText>飛鳥</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Asuka</EnglishText>
       <Notes/>
       <Id>160</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33060</PointerOffset>
       <JapaneseText>防御属性『無』（耐性：--　弱点：--）
 「鉄拳」より参戦！　蹴りと拳で敵を打ちまくる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: None (Resist: --, Weak: --)
+Dress as Asuka from "Tekken" to pummel foes with her kicks and fists!</EnglishText>
       <Notes/>
       <Id>161</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33464</PointerOffset>
@@ -1431,28 +1439,31 @@ A costume clad in heavy armor with powerful ramming attacks.</EnglishText>
       <PointerOffset>33468</PointerOffset>
       <JapaneseText>防御属性『無』（耐性：--　弱点：--）
 「THE IDOLM@STER」より参戦！　歌う！踊る！コケる！？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Attribute: None (Resist: --, Weak: --)
+Dress as Haruka from "IdolM@aster"! Sing! Dance! Fall!?</EnglishText>
+      <Notes>May need to modify the "Sing, dance, fall" part to make it sound more natural.</Notes>
       <Id>163</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33876</PointerOffset>
       <JapaneseText>防御属性『無』（耐性：--　弱点：--）
 レアなピンク色のかに型きぐるみ。横歩きがちょっと辛い…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: None (Resist: --, Weak: --)
+A rare pink crab-shaped costume. Moving side-to-side is a bit of a struggle...</EnglishText>
       <Notes/>
       <Id>164</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34284</PointerOffset>
       <JapaneseText>防御属性『無』（耐性：--　弱点：--）
 「ゼビウス」より参戦！　堅さはピカイチ、ピンクバージョン！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: None (Resist: --, Weak: --)
+Dress as the pink Bacura from "Xevious"! Its toughness is second to none!</EnglishText>
       <Notes/>
       <Id>165</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
