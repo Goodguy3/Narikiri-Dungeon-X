@@ -14943,10 +14943,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>52484,50888,55676,52988,55760,56096,54836,55256,53828,50216,51140</PointerOffset>
       <JapaneseText>防御属性『風』（耐性：雷　弱点：地）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Wind (Resist: Lightning, Weak: Earth)</EnglishText>
       <Notes/>
       <Id>4008</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>51144</PointerOffset>
@@ -15335,10 +15335,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>50552,55088,51476,54584,51728,54332,55592,55928,53072</PointerOffset>
       <JapaneseText>防御属性『水』（耐性：火　弱点：雷）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Water (Resist: Fire, Weak: Lightning)</EnglishText>
       <Notes/>
       <Id>4057</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53076</PointerOffset>
@@ -15503,10 +15503,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>52148,51560,55424,52568,51056,55004,56432,53996</PointerOffset>
       <JapaneseText>防御属性『地』（耐性：風　弱点：火）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Earth (Resist: Wind, Weak: Fire)</EnglishText>
       <Notes/>
       <Id>4078</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54000</PointerOffset>
@@ -15527,10 +15527,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>51980,50720,56348,54500,52820,52232,55844,54080</PointerOffset>
       <JapaneseText>防御属性『雷』（耐性：水　弱点：風）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Lightning (Resist: Water, Weak: Wind)</EnglishText>
       <Notes/>
       <Id>4081</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54084</PointerOffset>

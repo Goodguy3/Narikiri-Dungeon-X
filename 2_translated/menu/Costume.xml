@@ -236,10 +236,11 @@ A costume that outmaneuvers any foe with its swift movements.</EnglishText>
       <PointerOffset>5316</PointerOffset>
       <JapaneseText>防御属性『地』（耐性：風　弱点：火）
 短剣攻撃や、ガルドやアイテムを盗むことが得意なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Earth (Resist: Wind, Weak: Fire)
+A costume that excels with daggers and theivery.</EnglishText>
       <Notes/>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5720</PointerOffset>
@@ -253,10 +254,11 @@ A costume that outmaneuvers any foe with its swift movements.</EnglishText>
       <PointerOffset>5724</PointerOffset>
       <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
 何も無い空間から手品の様に武器を取り出し戦えるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Wind (Resist: Lightning, Weak: Earth)
+A costume that uses tricks to conjure weapons from thin air into battle.</EnglishText>
       <Notes/>
       <Id>29</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6128</PointerOffset>
@@ -322,10 +324,11 @@ A costume that excels at striking from the shadows to exploit the enemy's openin
       <PointerOffset>7356</PointerOffset>
       <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
 弓の扱いに長けた、遠距離攻撃が得意なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Water (Resist: Fire, Weak: Lightning)
+A costume skilled with bows and its long-range attacks.</EnglishText>
       <Notes/>
       <Id>37</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7760</PointerOffset>
@@ -339,10 +342,11 @@ A costume that excels at striking from the shadows to exploit the enemy's openin
       <PointerOffset>7764</PointerOffset>
       <JapaneseText>防御属性『地』（耐性：風　弱点：火）
 突出した弓の技術で、敵を寄せ付けない強さを得たコスチューム</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Attribute: Earth (Resist: Wind, Weak: Fire)
+A costume that keeps enemies at bay with its archery skills.</EnglishText>
+      <Notes>didn't include the part about unmatched strength.</Notes>
       <Id>39</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8168</PointerOffset>
@@ -373,10 +377,11 @@ A costume that excels at striking from the shadows to exploit the enemy's openin
       <PointerOffset>8580</PointerOffset>
       <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
 銃を使った状態異常を引き起こす狙撃攻撃が強力なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Water (Resist: Fire, Weak: Lightning)
+A costume that uses a sniper to inflict status aillments.</EnglishText>
       <Notes/>
       <Id>43</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8984</PointerOffset>
@@ -425,10 +430,11 @@ A costume used to wield guns and confuse foes with trick shots.</EnglishText>
       <PointerOffset>9804</PointerOffset>
       <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
 様々な魔物を召喚し、戦う事ができるコスチューム</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Attribute: Lightning (Resist: Water, Weak: Wind)
+A costume that enables one to summon monsters to battle.</EnglishText>
+      <Notes>Need to doublel check this one on what its capabilities are; can you actually fight against the monsters (don't think that's the case).</Notes>
       <Id>49</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10208</PointerOffset>
@@ -460,10 +466,11 @@ A costume that can capture monsters and summon them for battle.</EnglishText>
       <PointerOffset>10620</PointerOffset>
       <JapaneseText>防御属性『地』（耐性：風　弱点：火）
 強大な魔物をも召喚することができるコスチューム</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Attribute: Earth (Resist: Wind, Weak: Fire)
+A costume capable of summoning powerful demons.</EnglishText>
+      <Notes>Could be monsters too, though given the title is Demon Manipulator, maybe it's specialty is getting demons?</Notes>
       <Id>53</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11024</PointerOffset>
@@ -477,10 +484,11 @@ A costume that can capture monsters and summon them for battle.</EnglishText>
       <PointerOffset>11028</PointerOffset>
       <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
 精霊と心を通わせることが可能なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Lightning (Resist: Water, Weak: Wind)
+A costume that allows one to commune with the spirits.</EnglishText>
       <Notes/>
       <Id>55</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11432</PointerOffset>
@@ -528,10 +536,11 @@ A costume that can capture monsters and summon them for battle.</EnglishText>
       <PointerOffset>12252</PointerOffset>
       <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
 魔界の者を呼び出し、操る事ができる異端のコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Wind (Resist: Lightning, Weak: Earth)
+A costume capable of summoning and commanding demons.</EnglishText>
       <Notes/>
       <Id>61</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12656</PointerOffset>
@@ -545,10 +554,11 @@ A costume that can capture monsters and summon them for battle.</EnglishText>
       <PointerOffset>12660</PointerOffset>
       <JapaneseText>防御属性『地』（耐性：風　弱点：火）
 身の丈程もある斧でパワフルに戦うコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Earth (Resist: Wind, Weak: Fire)
+A costume with powerful capabilities that uses an axe as large as its wielder.</EnglishText>
       <Notes/>
       <Id>63</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13064</PointerOffset>
@@ -596,10 +606,11 @@ A costume that can capture monsters and summon them for battle.</EnglishText>
       <PointerOffset>13884</PointerOffset>
       <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
 斧を使った圧倒的な破壊力で全てを打ち砕く強力なコスチューム</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Attribute: Lightning (Resist: Water, Weak: Wind)
+A costume that shatters all in its path with overwhelming destruction.</EnglishText>
+      <Notes>Didn't mention the part about the axe.</Notes>
       <Id>69</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14288</PointerOffset>
@@ -630,10 +641,11 @@ A costume that can capture monsters and summon them for battle.</EnglishText>
       <PointerOffset>14700</PointerOffset>
       <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
 長いリーチと強烈な突進力で敵をなぎ倒す強力なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Wind (Resist: Lightning, Weak: Earth)
+A costume that overpowers foes with its long reach and lunging power.</EnglishText>
       <Notes/>
       <Id>73</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>15104</PointerOffset>
@@ -647,10 +659,11 @@ A costume that can capture monsters and summon them for battle.</EnglishText>
       <PointerOffset>15108</PointerOffset>
       <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
 槍の広い攻撃範囲を活かした技で、複数の敵と戦えるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Water (Resist: Fire, Weak: Lightning)
+A costume that utilizes its spear's range to strike multiple foes.</EnglishText>
       <Notes/>
       <Id>75</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>15512</PointerOffset>
@@ -767,7 +780,7 @@ A costume that can capture monsters and summon them for battle.</EnglishText>
       <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
 攻撃だけではなく、味方を守る事も得意とするコスチューム</JapaneseText>
       <EnglishText>Attribute: Dark (Resist: Physical, Weak: Light)
-A costume that excels in offense and protecting your teammates.</EnglishText>
+A costume that excels in offense and protecting allies.</EnglishText>
       <Notes/>
       <Id>89</Id>
       <Status>Editing</Status>
@@ -784,10 +797,11 @@ A costume that excels in offense and protecting your teammates.</EnglishText>
       <PointerOffset>18780</PointerOffset>
       <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
 剣による息もつかせぬ連続攻撃が得意なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Wind (Resist: Lightning, Weak: Earth)
+A costume specializing in relentless and nonstop sword strikes.</EnglishText>
       <Notes/>
       <Id>91</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19184</PointerOffset>
@@ -818,10 +832,11 @@ A costume that excels in offense and protecting your teammates.</EnglishText>
       <PointerOffset>19596</PointerOffset>
       <JapaneseText>防御属性『地』（耐性：風　弱点：火）
 仲間を守ることに特化した堅牢なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Earth (Resist: Wind, Weak: Fire)
+A costume that excels in defense and protecting allies.</EnglishText>
       <Notes/>
       <Id>95</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20000</PointerOffset>
@@ -835,10 +850,11 @@ A costume that excels in offense and protecting your teammates.</EnglishText>
       <PointerOffset>20004</PointerOffset>
       <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
 細身の剣を操り、少しの術も扱える多機能なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Lightning (Resist: Water, Weak: Wind)
+A costume that wields rapiers and novice magic.</EnglishText>
       <Notes/>
       <Id>97</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20408</PointerOffset>
@@ -887,10 +903,11 @@ A costume that wields both swords and magic.</EnglishText>
       <PointerOffset>21228</PointerOffset>
       <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
 魔術の初歩を学ぶのに最適なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Water (Resist: Fire, Weak: Lightning)
+A costume designed for learning the basics of magic.</EnglishText>
       <Notes/>
       <Id>103</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21632</PointerOffset>
@@ -921,10 +938,11 @@ A costume that wields both swords and magic.</EnglishText>
       <PointerOffset>22044</PointerOffset>
       <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
 多くの魔術を扱い、敵をまとめて倒すことができるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Lightning (Resist: Water, Weak: Wind)
+A costume that wields multiple magics capable of eliminating groups of enemies.</EnglishText>
       <Notes/>
       <Id>107</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22448</PointerOffset>
@@ -938,10 +956,11 @@ A costume that wields both swords and magic.</EnglishText>
       <PointerOffset>22452</PointerOffset>
       <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
 魔術・法術を高いレベルで使いこなす、術の万能コスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Water (Resist: Fire, Weak: Lightning)
+A costume with mastery over advanced magic artes.</EnglishText>
       <Notes/>
       <Id>109</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22856</PointerOffset>
@@ -990,10 +1009,11 @@ A powerful costume that wields only advanced magic artes.</EnglishText>
       <PointerOffset>23676</PointerOffset>
       <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
 攻撃も補助も可能な、術の扱いに特化したコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Wind (Resist: Lightning, Weak: Earth)
+A costume specializing in both offensive and support spells.</EnglishText>
       <Notes/>
       <Id>115</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>24080</PointerOffset>
@@ -1024,10 +1044,11 @@ A powerful costume that wields only advanced magic artes.</EnglishText>
       <PointerOffset>24492</PointerOffset>
       <JapaneseText>防御属性『地』（耐性：風　弱点：火）
 自らの肉体を使い、接近戦に特化したコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Earth (Resist: Wind, Weak: Fire)
+A costume that utilizes one's physique to engage in close combat.</EnglishText>
       <Notes/>
       <Id>119</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>24896</PointerOffset>
@@ -1041,10 +1062,11 @@ A powerful costume that wields only advanced magic artes.</EnglishText>
       <PointerOffset>24900</PointerOffset>
       <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
 足技による連続攻撃と投げ技に特化したコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Water (Resist: Fire, Weak: Lightning)
+A costume specializing in leg attacks and grapples.</EnglishText>
       <Notes/>
       <Id>121</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>25304</PointerOffset>
@@ -1075,10 +1097,11 @@ A powerful costume that wields only advanced magic artes.</EnglishText>
       <PointerOffset>25716</PointerOffset>
       <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
 殴る、蹴る等の打撃に特化し、一撃が強力なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Wind (Resist: Lightning, Weak: Earth)
+A costume that specializes in powerful punches and kicks.</EnglishText>
       <Notes/>
       <Id>125</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26120</PointerOffset>
@@ -1109,10 +1132,11 @@ A powerful costume that wields only advanced magic artes.</EnglishText>
       <PointerOffset>26532</PointerOffset>
       <JapaneseText>防御属性『地』（耐性：風　弱点：火）
 強烈な足技と投げ技で敵を撃破する強力なコスチューム</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Attribute: Earth (Resist: Wind, Weak: Fire)
+A costume that uses powerful leg artes and throws.</EnglishText>
+      <Notes>maybe grapple instead of throw?</Notes>
       <Id>129</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26936</PointerOffset>
@@ -1143,10 +1167,11 @@ A powerful costume that wields only advanced magic artes.</EnglishText>
       <PointerOffset>27348</PointerOffset>
       <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
 歌うことで周囲に様々な影響を与えることが可能なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Water (Resist: Fire, Weak: Lightning)
+A costume that affects surrounding combatants through singing.</EnglishText>
       <Notes/>
       <Id>133</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>27752</PointerOffset>
@@ -1160,10 +1185,10 @@ A powerful costume that wields only advanced magic artes.</EnglishText>
       <PointerOffset>27756</PointerOffset>
       <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
 あらゆる法術を極めた、癒しの最高コスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Wind (Resist: Lightning, Weak: Earth)</EnglishText>
       <Notes/>
       <Id>135</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>28160</PointerOffset>
@@ -1177,10 +1202,11 @@ A powerful costume that wields only advanced magic artes.</EnglishText>
       <PointerOffset>28164</PointerOffset>
       <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
 歌術を操り、味方のサポートに適したコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Wind (Resist: Lightning, Weak: Earth)
+A costume that supports allies by singing.</EnglishText>
       <Notes/>
       <Id>137</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>28568</PointerOffset>
@@ -1194,10 +1220,11 @@ A powerful costume that wields only advanced magic artes.</EnglishText>
       <PointerOffset>28572</PointerOffset>
       <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
 攻撃・サポート・妨害と万能な行動が行える強力なコスチューム</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Attribute: Lightning (Resist: Water, Weak: Wind)
+A costume capable in attack, support, and disruption.</EnglishText>
+      <Notes>May need another word for "disruption".</Notes>
       <Id>139</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>28976</PointerOffset>
@@ -1211,10 +1238,11 @@ A powerful costume that wields only advanced magic artes.</EnglishText>
       <PointerOffset>28980</PointerOffset>
       <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
 傷ついた者を癒すことのできるコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Water (Resist: Fire, Weak: Lightning)
+A costume designed to heal the wounded.</EnglishText>
       <Notes/>
       <Id>141</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>29384</PointerOffset>
@@ -1245,10 +1273,11 @@ A powerful costume that wields only advanced magic artes.</EnglishText>
       <PointerOffset>29796</PointerOffset>
       <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
 野生の力を斧に込め、暴れまわることのできるコスチューム</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Attribute: Wind (Resist: Lightning, Weak: Earth)
+A costume that channels feral power into its axe to go on a ramage.</EnglishText>
+      <Notes>May need another way to describe "feral power"</Notes>
       <Id>145</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>30200</PointerOffset>
@@ -1297,10 +1326,11 @@ A costume that excels in knocking down multiple foes with an axe.</EnglishText>
       <PointerOffset>31020</PointerOffset>
       <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
 大斧を使った強烈な一撃で、吹き飛ばし攻撃が得意なコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Lightning (Resist: Water, Weak: Wind)
+A costume that wields a great axe and excels in knocking down foes.</EnglishText>
       <Notes/>
       <Id>151</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31424</PointerOffset>
@@ -1314,10 +1344,11 @@ A costume that excels in knocking down multiple foes with an axe.</EnglishText>
       <PointerOffset>31428</PointerOffset>
       <JapaneseText>防御属性『地』（耐性：風　弱点：火）
 リーチのある突き刺し攻撃をメインに戦うコスチューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Earth (Resist: Wind, Weak: Fire)
+A costume specializing in long-reach thrusting attacks.</EnglishText>
       <Notes/>
       <Id>153</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31832</PointerOffset>
