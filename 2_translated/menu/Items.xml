@@ -6300,10 +6300,10 @@ close combat.</EnglishText>
     <Entry>
       <PointerOffset>20904</PointerOffset>
       <JapaneseText>打撃力を強化した革の篭手</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Leather gauntlets that enhance one's striking power.</EnglishText>
       <Notes/>
       <Id>2995</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20924</PointerOffset>
@@ -6324,10 +6324,11 @@ close combat.</EnglishText>
     <Entry>
       <PointerOffset>20988</PointerOffset>
       <JapaneseText>鉄製の突起物を付けて殺傷能力を増した篭手</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gauntlets fitted with iron spikes to boost their
+killing capabilities.</EnglishText>
       <Notes/>
       <Id>2998</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21008</PointerOffset>
@@ -6351,10 +6352,11 @@ Effect: Regenerate HP</EnglishText>
       <PointerOffset>21072</PointerOffset>
       <JapaneseText>八百万の魔物の魂が封じられた篭手。
 使う者を鼓舞しスタミナを与える</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gauntlets that have sealed the souls of eight million monsters.
+They invigorate its user and give them stamina.</EnglishText>
       <Notes/>
       <Id>3001</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21092</PointerOffset>
@@ -6378,10 +6380,11 @@ Earth Property</EnglishText>
       <PointerOffset>21156</PointerOffset>
       <JapaneseText>ダイヤを加工して作られた爪を備える篭手。
 とてつもない強度を誇る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gauntlets fitted with talons crafted from diamonds.
+They boast incredible power.</EnglishText>
       <Notes/>
       <Id>3004</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21176</PointerOffset>
@@ -6405,10 +6408,11 @@ Effect: Poison</EnglishText>
       <PointerOffset>21240</PointerOffset>
       <JapaneseText>毒薬を塗りこんだ革で覆われた
 格闘家精神に反すると非難を浴びた篭手</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gauntlets covered in poison-soaked leather that have
+been criticized for going against the spirit of martial arts.</EnglishText>
       <Notes/>
       <Id>3007</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21260</PointerOffset>
@@ -6430,10 +6434,11 @@ Effect: Poison</EnglishText>
       <PointerOffset>21324</PointerOffset>
       <JapaneseText>初代チャンピオンが愛用していたとされる、
 由緒あるナックル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A prestigious brass knuckle said to have been used
+by the first champion.</EnglishText>
       <Notes/>
       <Id>3010</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21344</PointerOffset>
@@ -6455,10 +6460,11 @@ Effect: Poison</EnglishText>
       <PointerOffset>21408</PointerOffset>
       <JapaneseText>神の兵器と名付けられたナックル。
 輝く拳は全ての悪を打ち砕く</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A knuckle christened as the weapon of god.
+Its shining fist shatters all evil.</EnglishText>
+      <Notes>Capital g?</Notes>
       <Id>3013</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21428</PointerOffset>
@@ -6482,10 +6488,11 @@ Light Property</EnglishText>
       <PointerOffset>21492</PointerOffset>
       <JapaneseText>星の力を秘めた輝きの篭手。
 その光は悪しきものを退ける</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A radiant gauntlets that conceals the power of the stars.
+Its light wards off evil.</EnglishText>
       <Notes/>
       <Id>3016</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21512</PointerOffset>
@@ -6506,7 +6513,7 @@ Light Property</EnglishText>
     <Entry>
       <PointerOffset>21576</PointerOffset>
       <JapaneseText>なめし皮で作られた一般的な脚甲</JapaneseText>
-      <EnglishText>Common leg armor made of leather.</EnglishText>
+      <EnglishText>Common leg guards made of leather.</EnglishText>
       <Notes/>
       <Id>3019</Id>
       <Status>Editing</Status>
@@ -6532,10 +6539,10 @@ Fire Property</EnglishText>
     <Entry>
       <PointerOffset>21660</PointerOffset>
       <JapaneseText>火の精霊の力を宿した、熱き魂の脚甲</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fiery leg guards imbued with the power of a fire spirit</EnglishText>
       <Notes/>
       <Id>3022</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21680</PointerOffset>
@@ -6556,7 +6563,7 @@ Fire Property</EnglishText>
     <Entry>
       <PointerOffset>21744</PointerOffset>
       <JapaneseText>鋼鉄で作られた重厚な脚甲。使いこなすには熟練を要する</JapaneseText>
-      <EnglishText>Leg armor made of steel. The craftsman
+      <EnglishText>Leg guards made of steel. The craftsman
 is obviously skilled!</EnglishText>
       <Notes/>
       <Id>3025</Id>
