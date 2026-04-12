@@ -1526,10 +1526,10 @@ written down how to use "Roaring Beast Edge".</EnglishText>
     <Entry>
       <PointerOffset>4604,4520,5192</PointerOffset>
       <JapaneseText>仮データ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Placeholder Data</EnglishText>
+      <Notes>Not sure if this is even used</Notes>
       <Id>2456</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>5216</PointerOffset>
@@ -6644,10 +6644,11 @@ combat performance.</EnglishText>
     <Entry>
       <PointerOffset>21996</PointerOffset>
       <JapaneseText>「失われた金属」を用いた古代の技術を蘇らせた脚甲</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Leg guards made using ancient techniques that
+utilize a "lost metal".</EnglishText>
+      <Notes>Need help confirming if this "lost metal" is an important element or key item.</Notes>
       <Id>3034</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>22016</PointerOffset>
@@ -6669,10 +6670,11 @@ combat performance.</EnglishText>
       <PointerOffset>22080</PointerOffset>
       <JapaneseText>突起部にダイヤをはめ込むことで、
 硬い一撃を約束する脚甲</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Leg guards embedded with diamonds that
+deliver a hard-hitting strike.</EnglishText>
       <Notes/>
       <Id>3037</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22100</PointerOffset>
@@ -6693,10 +6695,11 @@ combat performance.</EnglishText>
     <Entry>
       <PointerOffset>22164</PointerOffset>
       <JapaneseText>研磨したドラゴンの牙を取りつけた、風格溢れる脚甲</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Leg guards that exude a commanding presence, having
+been furnished from a dragon's fang.</EnglishText>
       <Notes/>
       <Id>3040</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22184</PointerOffset>
@@ -6718,10 +6721,11 @@ combat performance.</EnglishText>
       <PointerOffset>22248</PointerOffset>
       <JapaneseText>「神技を持つ者」へ受け継がれる脚甲。
 最高の栄誉の証となる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Leg guards passed down to those who possess
+superhuman skills. It is a symbol of the highest honor.</EnglishText>
       <Notes/>
       <Id>3043</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22268</PointerOffset>
@@ -6769,15 +6773,16 @@ to survive through battle.</EnglishText>
       <PointerOffset>22416</PointerOffset>
       <JapaneseText>チアガールのバトン。
 クルクルクル〜♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A cheerleader's baton.
+Spin around and around~♪</EnglishText>
       <Notes/>
       <Id>3049</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22436</PointerOffset>
       <JapaneseText>シャクジョウ</JapaneseText>
-      <EnglishText>Shakujou</EnglishText>
+      <EnglishText>Pilgrim's Staff</EnglishText>
       <Notes/>
       <Id>3050</Id>
       <Status>Editing</Status>
@@ -6794,15 +6799,16 @@ to survive through battle.</EnglishText>
       <PointerOffset>22500</PointerOffset>
       <JapaneseText>振るうたびに心地よい音がする杖。
 その音はヘビやクマを追い払い、道中の安全に役立つ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A walking stick that makes a delightful sound every time it's tapped.
+The sound scares away snakes and bears to keep you safe on your journey.</EnglishText>
       <Notes/>
       <Id>3052</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22520</PointerOffset>
       <JapaneseText>オーバーロード</JapaneseText>
-      <EnglishText>Overload</EnglishText>
+      <EnglishText>Overlord</EnglishText>
       <Notes/>
       <Id>3053</Id>
       <Status>Editing</Status>
@@ -6819,10 +6825,11 @@ to survive through battle.</EnglishText>
       <PointerOffset>22584</PointerOffset>
       <JapaneseText>偉大な君主の権威を象徴する杖。
 殴られるとすごく痛い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A staff that symbolizes the authority of a great ruler.
+It hurts a lot if you get hit with it.</EnglishText>
       <Notes/>
       <Id>3055</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>22604</PointerOffset>
